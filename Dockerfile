@@ -1,5 +1,5 @@
 FROM busybox
-MAINTAINER Chris <c@crccheck.com>
+MAINTAINER Alex4766 <alex4766@gmail.com>
 
 ADD index.html /www/index.html
 
